@@ -1,2 +1,2 @@
-# Verilog Selling Machine (FSM)
-This is a Verilog Project realizing a selling machine
+# Verilog Vending Machine (FSM)
+This is a Verilog Project realizing a vending machine
